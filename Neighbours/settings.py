@@ -67,6 +67,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'neighbourhood',
     'bootstrap4',
+    'tinymce',
     'registration',
 ]
 
